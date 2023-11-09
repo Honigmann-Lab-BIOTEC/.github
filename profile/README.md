@@ -1,6 +1,6 @@
 ## RESEARCH
 Membrane Organization of Cells and Tissues
-Biological membranes are fascinating composites of lipids, proteins and sugars. Our aim is to understand how the molecular components self-organize into meso-scale complexes that control processes as adhesion, polarization, signaling / sensing, which underlie morphogenesis of cells and tissues.
+Biological membranes are fascinating composites of lipids, proteins and sugars. Our aim is to understand how the molecular components self-organize into meso-scale complexes that control processes as adhesion, polarization, signaling/sensing, which underlie morphogenesis of cells and tissues.
 
 To this end, we pursue a mutli-scale approach:
 
