@@ -5,13 +5,13 @@ Biological membranes are fascinating composites of lipids, proteins and sugars. 
 To this end, we pursue a mutli-scale approach:
 
 ####  (1) Supra-Molecular-Organization of Membrane Complexes in Cells and Tissues 
-We use and develop super-resolution STED microscopy in combination with 3D tissue culture to study how molecules organize into functional meso-scale structures. Currently we are working on the Apical Junction Complex. 
+    We use and develop super-resolution STED microscopy in combination with 3D tissue culture to study how molecules organize into functional meso-scale structures. Currently we are working on the Apical Junction Complex. 
 
 #### (2) Reconstitution of Membrane Complexes by Molecular Self-Organization in vitro 
-We purify key organizing proteins to re-assemble complex structures and functions in controlled in vitro membrane systems. We are particularly interested in collective processes such as phase transitions / separation and active feedback systems.
+  We purify key organizing proteins to re-assemble complex structures and functions in controlled in vitro membrane systems. We are particularly interested in collective processes such as phase transitions / separation and active feedback systems.
 
 #### (3) Control of Morphogenesis in Epithelial Organoids
-We aim to apply and test the molecular and mesoscale self-organization principles during the morphogenesis of stem cell derived organoids. We especially focus on the interplay of cell adhesion, cortical mechanics and cell differentiation.
+  We aim to apply and test the molecular and mesoscale self-organization principles during the morphogenesis of stem cell derived organoids. We especially focus on the interplay of cell adhesion, cortical mechanics and cell differentiation.
 
 ### Methods
 - Super-Resolution Microscopy (STED, SMLM)
